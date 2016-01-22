@@ -2,3 +2,5 @@ This is test flie.
 do some local texts
 add some remote texts
 add texts on master
+add some feature texts
+add more feature texts
